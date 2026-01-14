@@ -82,7 +82,7 @@ Task 3
 
 ## Repository contents
 
-- `BENNETT_George_ENGI4607.ipynb`  
+- `BENNETT_George_ENGI4607_fixed.ipynb`  
   Main notebook containing all tasks, training, evaluation and plots
 
 ## Data notes
